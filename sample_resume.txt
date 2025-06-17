@@ -1,0 +1,5 @@
+John Doe
+Experienced software engineer with expertise in Python, machine learning, and system architecture.
+Previously worked at Acme Corp where I developed scalable backend services and optimized data processing pipelines.
+Skills: Python, ML, system design, REST APIs, Docker
+Education: B.Sc in Computer Science
