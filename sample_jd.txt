@@ -1,0 +1,3 @@
+We are seeking a senior Python developer to build and maintain machine learning services.
+Responsibilities include designing scalable backend systems, collaborating with data scientists,
+and ensuring reliability of microservices.
