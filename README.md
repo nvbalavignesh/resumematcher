@@ -26,3 +26,13 @@ python resume_matcher.py sample_resume.txt sample_jd.txt
 ```
 
 The output displays a match score (0-100%) and improvement suggestions generated using open-source models.
+
+### Agentic improvement
+
+For an iterative approach that attempts to rewrite the resume to reach a higher match score, add the `--improve` flag:
+
+```bash
+python resume_matcher.py sample_resume.txt sample_jd.txt --improve --iterations 3
+```
+
+This runs a small agent loop that refines the resume up to the specified number of iterations and prints the final score, updated resume text and suggestions.
